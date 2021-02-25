@@ -1,0 +1,34 @@
+{
+  "name": "purratz",
+  "version": "1.1.1",
+  "description": "A little Framework for tiny REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazerlelutin/purratz.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "koa",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "kazerlelutin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazerlelutin/purratz/issues"
+  },
+  "homepage": "https://github.com/kazerlelutin/purratz#readme",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.1.0"
+  }
+}
