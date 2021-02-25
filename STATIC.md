@@ -1,4 +1,4 @@
-![Logo Purratz ><](https://studiokami-stock.s3.fr-par.scw.cloud/purratz/logo-purratz-200.png)
+![Logo Purratz ><](https://github.com/kazerlelutin/purratz/blob/master/asset/logo-purratz-200.png?raw=true)
 
 # purratz - Statics assets endpoint
 

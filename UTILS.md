@@ -1,4 +1,4 @@
-![Logo Purratz ><](https://studiokami-stock.s3.fr-par.scw.cloud/purratz/logo-purratz-200.png)
+![Logo Purratz ><](https://github.com/kazerlelutin/purratz/blob/master/asset/logo-purratz-200.png?raw=true)
 
 # purratz - Utils functions
 Some built-in utility functions.
@@ -50,7 +50,7 @@ Exemple for generate a key :
 ```javascript
 /**
 * @ALPHABET is an array with letters (a to Z)
-* @NUMBERS is an array with number (0 to 9)
+* @NUMBERS is an array with number (0 to 9)
 **/
 import {shuffle,ALPHABET, NUMBERS} from "purratz"; 
 
